@@ -49,7 +49,7 @@ Output: 4
 
 
 
-
+package TWOPOINTER.OPPOSITEDIRECTION;
 import java.util.Arrays;
 
 public class ValidTriangleNumber {

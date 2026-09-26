@@ -46,7 +46,7 @@ Explanation: The sum that is closest to the target is 0. (0 + 0 + 0 = 0).
 
 
 */
-
+package TWOPOINTER.OPPOSITEDIRECTION;
 import java.util.Arrays;
 
 public class ThreeSumClosest {

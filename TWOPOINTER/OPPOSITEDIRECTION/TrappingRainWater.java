@@ -52,7 +52,7 @@ Output: 9
 
 
 
-
+package TWOPOINTER.OPPOSITEDIRECTION;
 
 public class TrappingRainWater {
     public static int trap(int[] height) {

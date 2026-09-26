@@ -46,7 +46,7 @@ Explanation: The only possible triplet sums up to 0.
 
 
 */
-
+package TWOPOINTER.OPPOSITEDIRECTION;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
